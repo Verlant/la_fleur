@@ -1,0 +1,13 @@
+Lotterie :
+  Lot à gagner pour la loterie de la fête des mères. (Estimation)
+	- 1000 stylos “Lafleur”. x5
+	- 700 sacs réutilisables en tissus “Lafleur”. x4
+	- 200 portes-clés “Lafleur”. x3
+	- 50 roses rouges à offrir. x2
+	- 10 bouquets de roses. x1
+
+Total de lot : x1 + x2 + x3 + x4 + x5 = X
+
+% de chances pour un lot : xn / X
+
+Exemples : x1 / X = % chances de gagner un bouquet de rose
